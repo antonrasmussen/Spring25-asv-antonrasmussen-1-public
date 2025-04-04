@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # !pip install geopandas
 # !pip install pysal
 # !pip install mapclassify
